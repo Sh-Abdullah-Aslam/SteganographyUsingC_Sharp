@@ -1,0 +1,12 @@
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\bin\Debug\Steganography_V2.exe.config
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\bin\Debug\Steganography_V2.exe
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\bin\Debug\Steganography_V2.pdb
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.csprojAssemblyReference.cache
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.DecodeForm.resources
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.EncodeForm.resources
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.MainForm.resources
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.Properties.Resources.resources
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.csproj.GenerateResource.cache
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.csproj.CoreCompileInputs.cache
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.exe
+E:\Lab Work\Extras\Steganograph_V2\Steganography_V2\Steganography_V2\obj\Debug\Steganography_V2.pdb
